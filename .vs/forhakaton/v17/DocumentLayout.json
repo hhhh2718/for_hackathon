@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\forhakaton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6ADA18-DFB2-191C-FCE0-A3A6A41991B3}|Assembly-CSharp.csproj|C:\\Users\\User\\forhakaton\\assets\\scripts\\pedestrianai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6ADA18-DFB2-191C-FCE0-A3A6A41991B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pedestrianai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6ADA18-DFB2-191C-FCE0-A3A6A41991B3}|Assembly-CSharp.csproj|c:\\users\\user\\forhakaton\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6ADA18-DFB2-191C-FCE0-A3A6A41991B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedestrianAI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\forhakaton\\Assets\\Scripts\\PedestrianAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PedestrianAI.cs",
+              "ToolTip": "C:\\Users\\User\\forhakaton\\Assets\\Scripts\\PedestrianAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PedestrianAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:51:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\forhakaton\\Assets\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\User\\forhakaton\\Assets\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:29:52.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
